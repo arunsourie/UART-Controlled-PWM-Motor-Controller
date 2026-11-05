@@ -1,4 +1,4 @@
-import serial
+import serial #Use pip install pyserial
 import time
 
 SERIAL_PORT = "COM3"
